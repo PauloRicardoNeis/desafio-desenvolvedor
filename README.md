@@ -6,7 +6,7 @@ Este é um sistema de exchange de moedas desenvolvido em Laravel. Ele permite qu
 - Conversão de moedas com base nas taxas de câmbio em tempo real.
 - Visualização de histórico de transações.
 - Aplicação de taxas de conversão e métodos de pagamento.
-- E-mail automático em momento de troca.
+- E-mail automático no momento da troca.
 
 ## Requisitos
 - Docker

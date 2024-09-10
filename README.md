@@ -4,8 +4,9 @@ Este é um sistema de exchange de moedas desenvolvido em Laravel. Ele permite qu
 ## Funcionalidades
 - Registro e autenticação de usuários.
 - Conversão de moedas com base nas taxas de câmbio em tempo real.
-- Visualização de transações anteriores.
-- Aplicação de taxas de conversão e métodos de pagamento. 
+- Visualização de histórico de transações.
+- Aplicação de taxas de conversão e métodos de pagamento.
+- E-mail automático em momento de troca.
 
 ## Requisitos
 - Docker
